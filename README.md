@@ -1,3 +1,3 @@
-# trio-task
+# Trio-task
 
-A flask app that is set up and configured to work with docker compose, the task for the delegates is to write a working docker-compose.yaml.
+This is a Flask application that is set up and configured to work with a database and nginx. Write a docker-compose.yaml that will bring all these services up and allow the app to run on port `80`.
