@@ -1,10 +1,8 @@
-#Use Python Image
+#Use Python 3.6 as a base image
 
-# Install apt dependencies
- 
 # Copy contents into image
  
-# run pip dependencies
+# install pip dependencies from requirements file
  
 # Expose correct port
 
